@@ -13,4 +13,4 @@ Here is the comparison of the models performance:
 - SVM AUC score 0.889;
 - Random forest AUC score 0.901;
 
-Decision tree, KNN and Logistic regression work faster than SVM and Random Forest, the best performance evaluation has Random forest and Decision tree.
+Decision tree, KNN and Logistic regression work faster than SVM and Random Forest, the best performance evaluation have Random forest and Decision tree.
