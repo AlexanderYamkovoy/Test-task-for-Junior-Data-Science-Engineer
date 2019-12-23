@@ -1,0 +1,5 @@
+Pandas
+Category_encoders
+Matplotlib
+Seaborn
+Sklearn										
